@@ -1,0 +1,21 @@
+nohup: ignoring input
+2147483647
+trycount = 400  surive rate = 0.9625
+trycount = 800  surive rate = 0.975
+trycount = 1200  surive rate = 0.95
+trycount = 1600  surive rate = 0.955
+trycount = 2000  surive rate = 0.9625
+die rate= 0.039  diecount = 78
+sur_rate = 0.961
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.5;2000;200;40;0.961;0.00845577;0.00879893;
+trycount = 400  surive rate = 0.9525
+trycount = 800  surive rate = 0.945
+trycount = 1200  surive rate = 0.96
+trycount = 1600  surive rate = 0.9525
+trycount = 2000  surive rate = 0.9425
+die rate= 0.0495  diecount = 99
+sur_rate = 0.9505
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.5;2000;400;40;0.9505;0.00620484;0.00652797;
+trycount = 400  surive rate = 0.947trtrycount = 800  surive rate = 0.93trytrycount = 1200  surive rate = 0.95trycount = 1600  surive rate = 0.9475

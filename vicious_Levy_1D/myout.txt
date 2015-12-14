@@ -1,0 +1,78 @@
+nohup: ignoring input
+2147483647
+check 1 , inside Levyexponent loop
+check 2 , inside Total time loop
+LevyExponent = 0.75 Totaltime = 100
+trycount = 400  surive rate = 0.8825
+trycount = 800  surive rate = 0.875
+trycount = 1200  surive rate = 0.9075
+trycount = 1600  surive rate = 0.875
+trycount = 2000  surive rate = 0.89
+die rate= 0.114  diecount = 228
+sur_rate = 0.886
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.75;2000;100;40;0.886;0.0121037;0.0136611;
+
+check 2 , inside Total time loop
+LevyExponent = 0.75 Totaltime = 200
+trycount = 400  surive rate = 0.87
+trycount = 800  surive rate = 0.8875
+trycount = 1200  surive rate = 0.8675
+trycount = 1600  surive rate = 0.845
+trycount = 2000  surive rate = 0.8725
+die rate= 0.1315  diecount = 263
+sur_rate = 0.8685
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.75;2000;200;40;0.8685;0.0136565;0.0157242;
+
+check 2 , inside Total time loop
+LevyExponent = 0.75 Totaltime = 400
+trycount = 400  surive rate = 0.835
+trycount = 800  surive rate = 0.8725
+trycount = 1200  surive rate = 0.8675
+trycount = 1600  surive rate = 0.81
+trycount = 2000  surive rate = 0.845
+die rate= 0.154  diecount = 308
+sur_rate = 0.846
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.75;2000;400;40;0.846;0.0227266;0.0268636;
+
+check 2 , inside Total time loop
+LevyExponent = 0.75 Totaltime = 800
+trycount = 400  surive rate = 0.84
+trycount = 800  surive rate = 0.8425
+trycount = 1200  surive rate = 0.835
+trycount = 1600  surive rate = 0.8175
+trycount = 2000  surive rate = 0.8525
+die rate= 0.1625  diecount = 325
+sur_rate = 0.8375
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.75;2000;800;40;0.8375;0.0115109;0.0137443;
+
+check 2 , inside Total time loop
+LevyExponent = 0.75 Totaltime = 1600
+trycount = 400  surive rate = 0.8375
+trycount = 800  surive rate = 0.83
+trycount = 1200  surive rate = 0.8475
+trycount = 1600  surive rate = 0.79
+trycount = 2000  surive rate = 0.8175
+die rate= 0.1755  diecount = 351
+sur_rate = 0.8245
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.75;2000;1600;40;0.8245;0.0198368;0.0240592;
+
+check 2 , inside Total time loop
+LevyExponent = 0.75 Totaltime = 3200
+trycount = 400  surive rate = 0.8025
+trycount = 800  surive rate = 0.8125
+trycount = 1200  surive rate = 0.815
+trycount = 1600  surive rate = 0.7625
+trycount = 2000  surive rate = 0.7875
+die rate= 0.204  diecount = 408
+sur_rate = 0.796
+dimesion ; levy exponent ; simulations ; Timesteps ;  ini_distance;survive rate ; Std;Std over mean;
+1;0.75;2000;3200;40;0.796;0.0193391;0.0242953;
+
+runtime = 109623 S
+109618.09user 5.02system 30:27:22elapsed 99%CPU (0avgtext+0avgdata 4912maxresident)k
+0inputs+296outputs (0major+347minor)pagefaults 0swaps
